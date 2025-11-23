@@ -19,7 +19,7 @@
 
 
 ### Tech Stack⋆.˚୨ৎ
-<div align="center">
+<!-- <div align="center">
 
 ![C](https://img.shields.io/badge/C-2C2F3E?style=for-the-badge&logo=c&logoColor=F7E98D)
 ![C++](https://img.shields.io/badge/C++-2C2F3E?style=for-the-badge&logo=c%2B%2B&logoColor=F7E98D)
@@ -31,9 +31,25 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-2C2F3E?style=for-the-badge&logo=opengl&logoColor=9B87D4)
 ![LaTeX](https://img.shields.io/badge/LaTeX-2C2F3E?style=for-the-badge&logo=latex&logoColor=6BA4D8)
 
+</div> -->
+
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-2C2E3E?style=for-the-badge&logo=c&logoColor=F7E98D)
+  ![C++](https://img.shields.io/badge/C++-2C2E3E?style=for-the-badge&logo=c%2B%2B&logoColor=F7E98D)
+  ![Python](https://img.shields.io/badge/Python-2C2E3E?style=for-the-badge&logo=python&logoColor=F7E98D)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-2C2E3E?style=for-the-badge&logo=javascript&logoColor=F7E98D)
+  ![HTML5](https://img.shields.io/badge/HTML5-2C2E3E?style=for-the-badge&logo=html5&logoColor=6BA4D8)
+  ![CSS3](https://img.shields.io/badge/CSS3-2C2E3E?style=for-the-badge&logo=css3&logoColor=6BA4D8)
+  ![Julia](https://img.shields.io/badge/Julia-2C2E3E?style=for-the-badge&logo=julia&logoColor=9B87D4)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-2C2E3E?style=for-the-badge&logo=opengl&logoColor=9B87D4)
+  ![LaTeX](https://img.shields.io/badge/LaTeX-2C2E3E?style=for-the-badge&logo=latex&logoColor=6BA4D8)
+  ![SQL](https://img.shields.io/badge/SQL-2C2E3E?style=for-the-badge&logo=mysql&logoColor=F7E98D)
+  ![NumPy](https://img.shields.io/badge/NumPy-2C2E3E?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2E3E?style=for-the-badge&logo=pandas&logoColor=150458)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2E3E?style=for-the-badge&logo=python&logoColor=11557C)
+
 </div>
-
-
 ### Stats⋆.˚
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=zeefromzee&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=F7E98D&text_color=E0E0E0&icon_color=9B87D4" alt="stats" />
