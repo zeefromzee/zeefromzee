@@ -10,8 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7E98D&center=true&vCenter=true&width=490&lines=making+magic+with+code;beep+boop+beep;By+believing+in+what+does+not+yet+exist+,;we+create+it;-+Franz+Kafka;My+fav+philosopher<3" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&size=18&duration=3000&pause=1000&color=F7E98D&center=true&vCenter=true&width=500&lines=making+magic+with+code+✧˖°;beep+boop+beep+beep;by+believing+in+what+does+not+yet+exist,;we+create+it+⋆｡˚" alt="Typing SVG" />
+
 
 </div>
 
