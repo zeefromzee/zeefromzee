@@ -37,7 +37,6 @@
   ![C](https://img.shields.io/badge/C-2C2E3E?style=for-the-badge&logo=c&logoColor=F7E98D)
   ![C++](https://img.shields.io/badge/C++-2C2E3E?style=for-the-badge&logo=c%2B%2B&logoColor=F7E98D)
   ![Python](https://img.shields.io/badge/Python-2C2E3E?style=for-the-badge&logo=python&logoColor=F7E98D)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-2C2E3E?style=for-the-badge&logo=javascript&logoColor=F7E98D)
   ![HTML5](https://img.shields.io/badge/HTML5-2C2E3E?style=for-the-badge&logo=html5&logoColor=6BA4D8)
   ![CSS3](https://img.shields.io/badge/CSS3-2C2E3E?style=for-the-badge&logo=css3&logoColor=6BA4D8)
   ![Julia](https://img.shields.io/badge/Julia-2C2E3E?style=for-the-badge&logo=julia&logoColor=9B87D4)
